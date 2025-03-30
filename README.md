@@ -1,4 +1,4 @@
-# Aviation Accident Analysis
+# # Aviation Accident Analysis To Identifying the Safest Aircraft Makes and Models for Business Expansion
 
 ## Overview
 This project analyzes aviation accident data to identify low-risk aircraft makes and models for business expansion. The insights provide data-driven purchasing decisions.
@@ -28,10 +28,10 @@ To minimize operational risks and enhance business success in aviation expansion
 3. Invest in aircraft models with historically lower accident rates and operate primarily in favorable weather conditions (VMC) to reduce incident likelihood.
 
 ## Visualizations
-![Accident Trends](images/accident_trends.png)  
+![Accident Trends](phase_one_project/images/accident_trends.png)  
 *Figure 1: Yearly aviation accident trends*  
 
-![Top 20 Safe aircraft models](images/safe_aircrafts.png)  
+![Top 20 Safe aircraft models](phase_one_project/images/safe_aircrafts.png)  
 *Figure 2: Top 20 Safe aircraft models*  
 
 ## Conclusion:
