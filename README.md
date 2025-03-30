@@ -44,5 +44,10 @@ To minimize operational risks and enhance business success in aviation expansion
 ![Top 20 Safe aircraft models](/images/safe_aircrafts.png.png)  
 *Figure 3: Top 20 Safe aircraft models*  
 
+## Interactive Dashboard  
+Explore the interactive dashboard for this analysis on Tableau Public:  
+
+[🔗 View Dashboard](https://public.tableau.com/views/AviationAccidentAnalysis_17433621614620/AviationAccidentAnalysisTrendsCausesandSafestAircraftModels?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Conclusion:
 By leveraging data-driven insights from aviation accident analysis, our business can strategically select safer aircraft models, optimize operational procedures, and mitigate risks associated with adverse weather and human factors. Implementing these recommendations will ensure cost efficiency, regulatory compliance, and long-term sustainability in the aviation sector.
