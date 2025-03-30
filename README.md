@@ -28,10 +28,10 @@ To minimize operational risks and enhance business success in aviation expansion
 3. Invest in aircraft models with historically lower accident rates and operate primarily in favorable weather conditions (VMC) to reduce incident likelihood.
 
 ## Visualizations
-![Accident Trends](phase_one_project/images/accident_trends.png)  
+![Accident Trends](aviation-accident-analysis./images/accident_trends.png.png)  
 *Figure 1: Yearly aviation accident trends*  
 
-![Top 20 Safe aircraft models](phase_one_project/images/safe_aircrafts.png)  
+![Top 20 Safe aircraft models](aviation-accident-analysis./images/safe_aircrafts.png)  
 *Figure 2: Top 20 Safe aircraft models*  
 
 ## Conclusion:
