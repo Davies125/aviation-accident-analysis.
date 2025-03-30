@@ -31,7 +31,7 @@ To minimize operational risks and enhance business success in aviation expansion
 ![Accident Trends](/images/accident_trends.png.png)  
 *Figure 1: Yearly aviation accident trends*  
 
-![Top 20 Safe aircraft models](/images/safe_aircrafts.png)  
+![Top 20 Safe aircraft models](/images/safe_aircrafts.png.png)  
 *Figure 2: Top 20 Safe aircraft models*  
 
 ## Conclusion:
