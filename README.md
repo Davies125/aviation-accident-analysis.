@@ -1,4 +1,4 @@
-# # Aviation Accident Analysis To Identifying the Safest Aircraft Makes and Models for Business Expansion
+# Aviation Accident Analysis To Identifying the Safest Aircraft Makes and Models for Business Expansion
 
 ## Overview
 This project analyzes aviation accident data to identify low-risk aircraft makes and models for business expansion. The insights provide data-driven purchasing decisions.
@@ -24,7 +24,6 @@ The main objectives are:
 - **Analysis:** Identified trends and patterns in aviation accidents.
 
 ## Key Findings
-Weather conditions, Amateur built aircrafts,purpose of flight, aircraft damage and small number of engines are leading cause of accidents .
 - Private flights experience higher accident rates than commercial ones, even under similar weather conditions.
 - Weather conditions alone do not determine accident likelihood because,  amateur built aircrafts,purpose of flight, aircraft damage and small number of engines are leading cause of accidents .
 - Investing in historically safer aircraft models can minimize risks and enhance long-term profitability.
